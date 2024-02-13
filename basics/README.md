@@ -6,3 +6,5 @@
 5 Adds a script that displays the contents of the current directory, in long format, with user and group IDs displayed numerically, and hidden files (starting with .).
 6 Adds a script that creates a directory named "my first directory" in the /tmp/ directory.
 7 Added a script that moves the betty file from /tmp/ to /tmp/my first directory.
+8 Added a script that deletes betty.
+ 
