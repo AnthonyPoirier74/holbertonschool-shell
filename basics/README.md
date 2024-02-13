@@ -7,4 +7,6 @@
 6 Adds a script that creates a directory named "my first directory" in the /tmp/ directory.
 7 Added a script that moves the betty file from /tmp/ to /tmp/my first directory.
 8 Adds a script that deletes betty.
-9 Adds a script that deletes the directory my first directory. 
+9 Adds a script that deletes the directory my first directory.
+10 Adds a script that changes the working directory to the previous one.
+ 
