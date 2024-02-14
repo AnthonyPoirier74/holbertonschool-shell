@@ -10,4 +10,5 @@
 9 Adds a script that sets the mode of the file hello to this:  -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10 Adds  a script that sets the mode of the file hello the same as ollehs mode
 11 Adds a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
+12 Adds a script that creates a directory called "my dir" with permissions 751 in the working directory"
 
