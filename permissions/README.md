@@ -4,8 +4,5 @@
 3 Adds a script that changes the owner of the file hello to the user betty
 4 Adds a script that creates an empty file called hello
 5 Adds a script that adds execute permission to the owner of the file hello
-5 Adds a script that adds execute permission to the owner of the file hello
-5 Adds a script that adds execute permission to the owner of the file hello
-5 Adds a script that adds execute permission to the owner of the file hello
-5 Adds a script that adds execute permission to the owner of the file hello
+6 Adds a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 
