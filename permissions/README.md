@@ -11,4 +11,5 @@
 10 Adds  a script that sets the mode of the file hello the same as ollehs mode
 11 Adds a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 12 Adds a script that creates a directory called "my dir" with permissions 751 in the working directory"
+13 Adds a script that changes the group owner to "school" for the file "hello"
 
