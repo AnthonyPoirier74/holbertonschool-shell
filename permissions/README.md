@@ -13,4 +13,7 @@
 12 Adds a script that creates a directory called "my dir" with permissions 751 in the working directory"
 13 Adds a script that changes the group owner to "school" for the file "hello"
 14 Adds  a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+15 Adds a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+The file _hello is in the working directory
+16 Adds a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume
 
